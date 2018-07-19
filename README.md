@@ -10,6 +10,7 @@ Blank keycaps
 
 https://github.com/benblazak/ergodox-firmware downloaded via Massdrop ergodox configurator.
 Small patch applied to get function keys F13-F24 working.
+https://github.com/benblazak/ergodox-firmware/pull/74/files
 
 # Keyboard Layout
 
